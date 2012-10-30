@@ -1,9 +1,4 @@
-package edu.plymouth.techdev.engine.entities;
-
 import java.util.ArrayList;
-
-import edu.plymouth.techdev.engine.components.Component;
-import edu.plymouth.techdev.engine.messages.Message;
 
 public abstract class Entity {
 	private String id;
